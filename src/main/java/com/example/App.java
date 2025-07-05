@@ -8,7 +8,7 @@ public class App {
 
         System.out.println("🚀 CI Pipeline Demo"); 
 
-        System.out.println("CI triggered by GitHub update"); 
+        System.out.println("CI triggered by GitHub updates"); 
 
         System.out.println("Build triggered at: " + LocalDateTime.now()); 
 
